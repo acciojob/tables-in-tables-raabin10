@@ -1,8 +1,7 @@
-
-td {
-  text-align: center;
+TD{
+    text-align: center;
 }
-.bc{
-	background:black;
-	color:white;
+table{
+	width:100%;
+	
 }
