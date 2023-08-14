@@ -1,2 +1,8 @@
 
-/* Your CSS Code here. */
+td {
+  text-align: center;
+}
+.bc{
+	background:black;
+	color:white;
+}
